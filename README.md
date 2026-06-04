@@ -46,4 +46,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNDViZTEwYWYtZDRjZS00YjQyLTk4NWUtMmUzYjExN
 
 ### Card Details
 
-![Card Details](screenshots/Card-details.png)
+![Card Details](screenshots/Card Details.png)
