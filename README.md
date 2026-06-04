@@ -30,20 +30,20 @@ https://app.powerbi.com/view?r=eyJrIjoiNDViZTEwYWYtZDRjZS00YjQyLTk4NWUtMmUzYjExN
 
 ### Dashboard Preview
 
-![Dashboard Preview](mockup.png)
+![Dashboard Preview](screenshots/mockup.png)
 
 ### Demographics Analysis
 
-![Demographics](demographics.png)
+![Demographics](screenshots/demographics.png)
 
 ### Financial Health Analysis
 
-![Financial Health](financial-health.png)
+![Financial Health](screenshots/financial-health.png)
 
 ### Transaction Analysis
 
-![Transactions](transactions.png)
+![Transactions](screenshots/transactions.png)
 
 ### Card Details
 
-![Card Details](card-details.png)
+![Card Details](screenshots/card-details.png)
