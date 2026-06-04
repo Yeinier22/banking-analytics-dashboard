@@ -34,16 +34,16 @@ https://app.powerbi.com/view?r=eyJrIjoiNDViZTEwYWYtZDRjZS00YjQyLTk4NWUtMmUzYjExN
 
 ### Demographics Analysis
 
-![Demographics](screenshots/demographics.png)
+![Demographics](screenshots/Demographics.png)
 
 ### Financial Health Analysis
 
-![Financial Health](screenshots/financial-health.png)
+![Financial Health](screenshots/Financial-health.png)
 
 ### Transaction Analysis
 
-![Transactions](screenshots/transactions.png)
+![Transactions](screenshots/Transactions.png)
 
 ### Card Details
 
-![Card Details](screenshots/card-details.png)
+![Card Details](screenshots/Card-details.png)
