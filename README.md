@@ -26,7 +26,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNDViZTEwYWYtZDRjZS00YjQyLTk4NWUtMmUzYjExN
 
 ### Project Overview
 
-![Project Overview](portada.png)
+![Project Overview](screenshots/portada.png)
 
 ### Dashboard Preview
 
